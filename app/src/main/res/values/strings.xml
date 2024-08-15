@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TA2</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="device">device</string>
+    <string name="ta2">TA2</string>
+</resources>
